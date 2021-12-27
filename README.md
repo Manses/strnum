@@ -14,7 +14,13 @@ Computer can't always represent floating point accurately.
 For example :
  • Computer might represent 3 as the number 2.99999999999999 or the number 3.000000000000001, due to limitation on number storage structure
    fractions on the computer.
- 
+
+
+
+Maximum number given to the input is : 2999999999 (10 digit number)
+You can do this if its Decimal Number : 2999999999.4235
+If more than that, it will give you a random number
+
 
 
 Regarding the above description, I may be giving wrong information, I am stil learning the basic programming and somehow built this function.
