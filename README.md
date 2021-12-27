@@ -6,6 +6,7 @@ There is no special about this code, but if you curious then go ahead and see ho
  
 The output of this function might be **inacurate** because the 'type or return value' of the function itself, it is a floating point/decimal number/double data type.
 Computer can't always represent floating point accurately.
+
 For example :
  • Computer might represent 3 as the number 2.99999999999999 or the number 3.000000000000001, due to limitation on number storage structure
    fractions on the computer.
