@@ -3,7 +3,7 @@ You don't actually use this function, use stof, stod, stoi, stol, etc from 'stri
 
 
 
-### Description
+# Description
 What this function does is like stod function, since the type of the function (strnum) or return value of the function is 'double' data type. 
 
 The output of this function might be **inacurate** because the 'type or return value' of the function itself, it is a floating point/decimal number/double data type.
@@ -14,7 +14,7 @@ For example :
 
 
 
-### Input and output program
+# Input and output program
 Maximum number given to the input is 2999999999 (10 digit number). You can input 2999999999.735554 if it's a Decimal Number. If more than that, it will give you a random number
 
 Main code and input :
@@ -68,7 +68,7 @@ Output 3 :
 
 
 
-### Closing
+# Closing
 Regarding the above description, I may be giving wrong information, I am stil learning the basic programming and somehow built this function.
 
 All credit goes to google translate, thanks google translate.
