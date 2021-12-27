@@ -17,7 +17,7 @@ For example :
 # Input and output program
 Maximum number given to the input is 2999999999 (10 digit number). You can input 2999999999.735554 if it's a Decimal Number. If more than that, it will give you a random number
 
-Main code and input :
+##### Main code and input 1 :
 ```
 int main() {
   string s = "346234.332";
@@ -27,13 +27,13 @@ int main() {
   return 0;
 }
 ```
-Output :
+##### Output 1 :
 ```
 346234.332
 346234
 ```
 
-Main code and input 2 :
+##### Main code and input 2 :
 ```
 int main() {
   string s;
@@ -44,13 +44,13 @@ int main() {
   return 0;
 }
 ```
-Output 2 :
+##### Output 2 :
 ```
 -2999999999
 -542342.235321432352
 ```
 
-Main code and input 3 :
+##### Main code and input 3 :
 ```
 int main() {
   string s1, s2;
@@ -60,7 +60,7 @@ int main() {
   return 0;
 }
 ```
-Output 3 :
+##### Output 3 :
 ```
 -1294967296
 0
